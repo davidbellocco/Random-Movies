@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Padrino",
+    "año": 1972,
+    "genero": "Crimen, Drama",
+    "director": "Francis Ford Coppola",
+    "imagen": "https://pics.filmaffinity.com/El_padrino-993414333-large.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza",
+    "año": 1977,
+    "genero": "Ciencia Ficción, Aventura",
+    "director": "George Lucas",
+    "imagen": "https://pics.filmaffinity.com/La_guerra_de_las_galaxias_Episodio_IV_Una_nueva_esperanza-960174316-large.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "El Caballero Oscuro",
+    "año": 2008,
+    "genero": "Acción, Crimen, Drama",
+    "director": "Christopher Nolan",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlczDhhYXFevPAkwajpa3QoYRdqDXG9apwvw&s"
+  },
+  {
+    "id": 4,
+    "titulo": "Forrest Gump",
+    "año": 1994,
+    "genero": "Drama, Romance",
+    "director": "Robert Zemeckis",
+    "imagen": "https://m.media-amazon.com/images/S/pv-target-images/f9ddd832d1b566f5b8dd29a4dbc76b7531c420c8c8d9fdfe94eca128bda8e2b1.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Inception",
+    "año": 2010,
+    "genero": "Acción, Ciencia Ficción, Thriller",
+    "director": "Christopher Nolan",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Matrix",
+    "año": 1999,
+    "genero": "Acción, Ciencia Ficción",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "imagen": "https://pics.filmaffinity.com/Matrix-155050517-large.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "La Lista de Schindler",
+    "año": 1993,
+    "genero": "Drama, Bélico",
+    "director": "Steven Spielberg",
+    "imagen": "https://www.ellector.com.py/product_photos/24b89be1/074cb72038e131e38516d93aca0d4cda.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Titanic",
+    "año": 1997,
+    "genero": "Drama, Romance",
+    "director": "James Cameron",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Avengers: Endgame",
+    "año": 2019,
+    "genero": "Acción, Aventura, Ciencia Ficción",
+    "director": "Anthony Russo, Joe Russo",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxZmjkNyUEcoHcQRbMII-VAN4-2C0tsHoVA&s"
+  },
+  {
+    "id": 10,
+    "titulo": "Gladiador",
+    "año": 2000,
+    "genero": "Acción, Aventura, Drama",
+    "director": "Ridley Scott",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BYWJjYWJhZmMtOGM1My00YWQzLWFlNWEtZTQ3ZjM5NzAxZDNkXkEyXkFqcGc@._V1_QL75_UY281_CR10,0,190,281_.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "año": 2001,
+    "genero": "Aventura, Fantasía",
+    "director": "Peter Jackson",
+    "imagen": "https://pics.filmaffinity.com/El_seanor_de_los_anillos_La_comunidad_del_anillo-744631610-large.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Pulp Fiction",
+    "año": 1994,
+    "genero": "Crimen, Drama",
+    "director": "Quentin Tarantino",
+    "imagen": "https://pics.filmaffinity.com/Pulp_Fiction-210382116-large.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Jurassic Park",
+    "año": 1993,
+    "genero": "Ciencia Ficción, Aventura, Acción",
+    "director": "Steven Spielberg",
+    "imagen": "https://pics.filmaffinity.com/Jurassic_Shark-882415493-large.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "The Dark Knight Rises",
+    "año": 2012,
+    "genero": "Acción, Crimen, Drama",
+    "director": "Christopher Nolan",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Los Increíbles",
+    "año": 2004,
+    "genero": "Animación, Aventura, Acción",
+    "director": "Brad Bird",
+    "imagen": "https://pics.filmaffinity.com/Los_Increaibles-653478359-large.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "El Resplandor",
+    "año": 1980,
+    "genero": "Terror, Drama",
+    "director": "Stanley Kubrick",
+    "imagen": "https://es.web.img3.acsta.net/pictures/14/04/15/10/46/568345.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Interstellar",
+    "año": 2014,
+    "genero": "Ciencia Ficción, Drama",
+    "director": "Christopher Nolan",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Cazafantasmas",
+    "año": 1984,
+    "genero": "Comedia, Fantasía",
+    "director": "Ivan Reitman",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_3SR_p868o8bdpopFHawB4o-O14popEhpA&s"
+  },
+  {
+    "id": 19,
+    "titulo": "El Club de la Pelea",
+    "año": 1999,
+    "genero": "Drama",
+    "director": "David Fincher",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "La La Land",
+    "año": 2016,
+    "genero": "Drama, Música, Romance",
+    "director": "Damien Chazelle",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+  }
+]

@@ -1,0 +1,133 @@
+
+
+.docs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+  animation: opacity 3s infinite alternate;
+}
+
+@keyframes opacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    color: #e9e9e9;
+    opacity: 1;
+  }
+}
+
+.docs img {
+  width: 20%;
+  height: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.docs p {
+  background-color: #3498db;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 16px;
+  display: inline-block;
+  animation: cambioColor 3s infinite alternate, movimiento 2s infinite;
+}
+
+@keyframes cambioColor {
+  0% {
+    background-color: #3498db;
+  }
+  50% {
+    background-color: #e74c3c;
+  }
+  100% {
+    background-color: #2ecc71;
+  }
+}
+
+@keyframes movimiento {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(50px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes escalar {
+  0% {
+    transform: scaleX(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scaleX(1);
+    opacity: 1;
+  }
+}
+
+@keyframes show {
+  from {
+    opacity: 0;
+    transform: scale(0.25);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+img {
+  view-timeline-name: --image;
+  view-timeline-axis: block;
+  animation-timeline: --image;
+  animation-name: show;
+  animation-range: entry 25% cover 30%;
+  animation-fill-mode: both;
+}
+
+.docs span {
+  animation: escalar 5s infinite alternate;
+}
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-mode {
+  background-color: white;
+  color: black;
+}
+
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0;
+  height: 50px;
+  min-width: 70px;
+}
+
+
+.Div_contetnt {
+  display: flex;
+  justify-content: flex-end;
+}
+
